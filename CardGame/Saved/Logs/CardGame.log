@@ -4221,3 +4221,86 @@ Sampler Limit: 32
 [2025.09.22-07.58.44:871][108]SourceControl:  delete mode 100644 CardGame/Content/CardArt/Tech/TCG-Mine_Mat.uasset
 [2025.09.22-07.58.44:871][108]SourceControl:  delete mode 100644 CardGame/Content/CardArt/Tech/TCG-Turret_Mat.uasset
 [2025.09.22-07.58.44:882][108]SourceControl: Commited [main 98f7a78] Card Mat.
+[2025.09.22-08.00.00:399][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11538.445312
+[2025.09.22-08.00.01:400][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-08.00.01:400][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11539.112305, Update Interval: 342.606293
+[2025.09.22-08.01.43:067][327]LogSlate: Window 'View Changes' being destroyed
+[2025.09.22-08.01.43:074][327]LogSlate: Window 'View Changes' being destroyed
+[2025.09.22-08.01.46:067][448]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.22-08.01.46:074][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.22-08.01.46:074][448]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CardGame
+[2025.09.22-08.01.46:080][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005141s)
+[2025.09.22-08.01.46:080][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CardGame.CardGame to /Game/Maps/UEDPIE_0_CardGame.CardGame (0.005180s)
+[2025.09.22-08.01.46:110][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.09.22-08.01.46:116][448]LogChaosDD: Creating Chaos Debug Draw Scene for world CardGame
+[2025.09.22-08.01.46:118][448]LogPlayLevel: PIE: World Init took: (0.001758s)
+[2025.09.22-08.01.46:120][448]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.22-08.01.46:120][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-08.01.46:120][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-08.01.46:120][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-08.01.46:120][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-08.01.46:120][448]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-08.01.46:120][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-08.01.46:120][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-08.01.46:120][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-08.01.46:120][448]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-08.01.46:120][448]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-08.01.46:120][448]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-08.01.46:122][448]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-08.01.46:160][448]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.22-08.01.46:160][448]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-08.01.46:160][448]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-08.01.46:160][448]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-08.01.46:161][448]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.22-08.01.46:161][448]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.22-08.01.46:164][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.22-08.01.46:164][448]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.22-08.01.46:164][448]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.22-08.01.46:164][448]LogAudio: Display: Audio Device (ID: 4) registered with world 'CardGame'.
+[2025.09.22-08.01.46:164][448]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.22-08.01.46:168][448]LogLoad: Game class is 'GameModeBase'
+[2025.09.22-08.01.46:170][448]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CardGame.CardGame up for play (max tick rate 60) at 2025.09.22-16.01.46
+[2025.09.22-08.01.46:170][448]LogWorld: Bringing up level for play took: 0.001960
+[2025.09.22-08.01.46:172][448]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.09.22-08.01.46:210][448]PIE: Server logged in
+[2025.09.22-08.01.46:212][448]PIE: Play in editor total start time 0.138 seconds.
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP1
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP2
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP3
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP4
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP5
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP6
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP7
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP8
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP9
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] CardBP10
+[2025.09.22-08.01.46:226][449]LogBlueprintUserMessages: [DeckBP_C_1] 10
+[2025.09.22-08.01.47:010][490]LogBlueprintUserMessages: [DeckBP_C_1] Enter Deck
+[2025.09.22-08.01.47:264][505]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP10
+[2025.09.22-08.01.47:414][514]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP9
+[2025.09.22-08.01.47:564][523]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP8
+[2025.09.22-08.01.47:731][533]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP7
+[2025.09.22-08.01.47:880][542]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP6
+[2025.09.22-08.01.48:047][552]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP5
+[2025.09.22-08.01.48:214][562]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP4
+[2025.09.22-08.01.48:381][572]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP3
+[2025.09.22-08.01.48:797][597]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP2
+[2025.09.22-08.01.48:981][608]LogBlueprintUserMessages: [PlayerBP_C_3] Added: CardBP1
+[2025.09.22-08.01.49:515][640]LogBlueprintUserMessages: [DeckBP_C_1] Exit Deck
+[2025.09.22-08.01.51:600][765]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.09.22-08.01.51:600][765]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.09.22-08.01.52:631][827]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.09.22-08.01.53:099][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.09.22-08.01.54:031][911]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2025.09.22-08.01.54:735][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-08.01.54:735][951]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CardGame
+[2025.09.22-08.01.54:735][951]LogWorld: UWorld::CleanupWorld for CardGame, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-08.01.54:736][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-08.01.54:737][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-08.01.54:741][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-08.01.54:762][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-08.01.54:763][951]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.22-08.01.54:763][951]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.22-08.01.54:765][951]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.22-08.01.54:771][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.22-08.01.54:806][952]LogPlayLevel: Display: Destroying online subsystem :Context_18
