@@ -1,0 +1,4 @@
+CardGame/Saved/Logs/CardGame.log
+*.log
+/CardGame/Saved/Logs
+*.log
